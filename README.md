@@ -19,7 +19,7 @@
 <a href="https://dev.to/syndrome6699">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
-<a href="https://twitter.com/Syndrome6699">
+<a href="https://x.com/SynDr0m3_0x">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
 <a href="https://instagram.com/Syndrome66_">
