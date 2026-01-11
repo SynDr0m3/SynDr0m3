@@ -98,10 +98,6 @@ hobbies: ["Tech", "Gaming", "Design", "Art", "Tutoring"]
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<p align="center">
-	<img src="https://visitcount.itsvg.in/api?id=SynDr0m3&icon=5&color=0"/>
-</p>
-
 ---
 
 <p align="center"><b>“Code. Learn. Share. Repeat.”</b></p>
