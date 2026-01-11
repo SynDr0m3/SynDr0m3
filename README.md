@@ -53,13 +53,18 @@ fields_of_interests:
     "Blockchain Development",
     "Automation",
   ]
-technical_background:
-  ["Frontend Developer", "DevOps Engineer", "Machine Learning Engineer"]
-currently_learning: ["MLOps"]
 
-2026 Goals:
-  ["Ship more projects, contribute to open source, and learn new technologies."]
-hobbies: ["Tech", "Gaming", "Design", "Art", "Mentoring"]
+technical_background:
+  [
+    "Frontend Developer",
+    "DevOps Engineer",
+    "Machine Learning Engineer",
+    "Intern - MLOps",
+  ]
+
+currently_learning: ["MLOps"]
+2026 Goals: ["Ship more projects and learn new technologies."]
+hobbies: ["Tech", "Gaming", "Design", "Art", "Tutoring"]
 ```
 
 ---
